@@ -1,0 +1,10 @@
+Package: BoxToolsCepoi
+Type: Package
+Title: Cepoi box tools
+Version: 0.1
+Date: 2016-07-04
+Author: Who wrote it
+Maintainer: Nastasia Fouret <nastasia.fouret@chu-reunion.fr>
+Description: Box tools for CEPOI uses only
+License:
+LazyData: TRUE
